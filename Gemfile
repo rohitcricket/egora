@@ -48,3 +48,6 @@ gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootst
 
 # Install Simple Form
 gem 'simple_form'
+
+# Install Devise
+gem 'devise'
